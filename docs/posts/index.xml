@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://firealxhunter.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ruta de Aprendizaje LaunchX</title>
+      <link>https://firealxhunter.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://firealxhunter.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! En mi travesia por LaunchX he aprendido&amp;hellip;
+ Python. Jupyter Notebooks. HTML. JavaScript.  Espero poder aprender mucho NodeJS</description>
+    </item>
+    
+    <item>
       <title>La Cultuira de un desarrollador de software</title>
       <link>https://firealxhunter.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
