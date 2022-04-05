@@ -7,4 +7,9 @@ Hola ✌️  soy el explorer **___** y este es mi blog personal donde compartir�
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+Mis expectativas para este proyecto sonÑ
+- Aprender Javascript.
+- Aprender NodeJS.
+- Aplicar mis conocimientos.
+
 🚀
