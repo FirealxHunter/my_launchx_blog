@@ -7,15 +7,15 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola! Mi nombre es Alejandro Silva, pero prefiero simplemente Alex.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Algunas cosas sobre mi:
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+- Tengo 23 años.
+- Estudié Ing. en Informática en el IPN (Probablemente donde nuestro MC) y soy recién egresado.
+- Me gustan mucho los idiomas, actualmente, además del español, hablo Ingles, Alemán y un algo de Japonés.
+- Me gusta leer, sobre todo thrillers. Mis autores favoritos son John Katzenbach, Dross Rotzank y Stephen King.
+- Me gusta la música Techno, Nu Metal y Épica.
+- Me gusta mucho comer.
 
+Saludos!
